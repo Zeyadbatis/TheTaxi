@@ -14,7 +14,7 @@ import path from "path";
 // When running locally or on Replit, leave it as:
 //   const REPOSITORY_NAME = undefined;
 // ============================================================
-const REPOSITORY_NAME = "/Taxi-Online/";
+const REPOSITORY_NAME = "/TheTaxi/";
 // const REPOSITORY_NAME = "/YOUR_REPOSITORY_NAME/";  // <-- uncomment & fill in for GitHub Pages
 
 const base = REPOSITORY_NAME ?? (process.env.BASE_PATH || "/");
